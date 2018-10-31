@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/lazybetrayer/test/bar"
-	"github.com/lazybetrayer/test/foo"
+	"github.com/lazybetrayer/test/v2/bar"
+	"github.com/lazybetrayer/test/v2/foo"
 )
 
 func main() {
