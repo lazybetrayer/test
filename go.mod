@@ -1,1 +1,1 @@
-module github.com/lazybetrayer/test/v2
+module github.com/lazybetrayer/test
